@@ -53,6 +53,7 @@
      <Compile Include="Assets\Scripts\Towers.cs" />
      <Compile Include="Assets\Scripts\health.cs" />
      <Compile Include="Assets\Scripts\help.cs" />
+     <Compile Include="Assets\Scripts\missileCommand\ATest.cs" />
      <Compile Include="Assets\Scripts\missileCommand\Blast.cs" />
      <Compile Include="Assets\Scripts\missileCommand\DisplayHealth.cs" />
      <Compile Include="Assets\Scripts\missileCommand\EnemyRocket.cs" />
